@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Panel</string>
+    <string name="server_address_label">設置伺服器地址</string>
+    <string name="server_address_hint">例如: http://192.168.1.3:3000</string>
+    <string name="button_save">儲存</string>
+    <string name="button_connect">連線</string>
+    <string name="prompt_enter_server_address">請輸入伺服器地址</string>
+    <string name="toast_connection_successful">連線成功！</string>
+    <string name="toast_validation_failed">驗證失敗：%1$s</string>
+    <string name="toast_address_saved">伺服器地址已儲存</string>
+    <string name="menu_refresh">重新整理</string>
+    <string name="menu_set_server">伺服器設置</string>
+    <string name="menu_about">關於</string>
+    <string name="title_about">關於 Panel</string>
+    <string name="about_content">一款強大且易用的基於 Web 的伺服器管理面板\n\n由 Steve3184 開發\n專案連結: https://github.com/Steve3184/panel</string>
+    <string name="version_info_format">目前版本 %1$s</string>
+    <string name="version_info_unavailable">版本資訊不可用</string>
+    <string name="welcome_server_addr_hint">請先設置一個伺服器地址以繼續</string>
+    <string name="welcome">歡迎使用 Panel</string>
+    <string name="invaild_server">無效的伺服器</string>
+    <string name="unknown_error">未知錯誤</string>
+</resources>

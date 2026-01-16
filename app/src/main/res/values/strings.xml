@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Panel</string>
+    <string name="server_address_label">Server Address</string>
+    <string name="server_address_hint">e.g., http://192.168.1.3:3000</string>
+    <string name="button_save">Save</string>
+    <string name="button_connect">Connect</string>
+    <string name="prompt_enter_server_address">Please enter server address</string>
+    <string name="toast_connection_successful">Connection successful!</string>
+    <string name="toast_validation_failed">Validation failed: %1$s</string>
+    <string name="toast_address_saved">Server address saved</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_set_server">Server Settings</string>
+    <string name="menu_about">About</string>
+    <string name="title_about">About Panel</string>
+    <string name="about_content">A powerful and easy-to-use web-based server management panel.\n\nDeveloped by Steve3184.\nProject Link: https://github.com/Steve3184/panel</string>
+    <string name="version_info_format">Version %1$s</string>
+    <string name="version_info_unavailable">Version info unavailable</string>
+    <string name="welcome_server_addr_hint">Please set a server address to continue</string>
+    <string name="welcome">Welcome to Panel</string>
+    <string name="invaild_server">Invalid Server</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
