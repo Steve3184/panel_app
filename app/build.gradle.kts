@@ -74,7 +74,7 @@ tasks.register("updateFrontend") {
     description = "Downloads and extracts the latest frontend package from GitHub Release."
 
     doLast {
-        val downloadUrl = "https://github.com/Steve3184/panel/releases/download/latest-build/frontend_release.zip"
+        val downloadUrl = "https://github.com/Steve3184/panel/releases/download/latest/release-frontend.zip"
         val destinationZipFile = file("${layout.buildDirectory.get()}/frontend.zip")
         val extractDir = file("src/main/assets/")
 
